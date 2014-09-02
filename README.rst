@@ -18,6 +18,13 @@ Contact
 Change Log
 ==========
 
+New in version 1.3.0-1
+----------------------
+
+- One off to change the compression flag to match MediaWiki's (PHP) compression flag.
+
+
+
 New in version 1.3.0
 --------------------
 
